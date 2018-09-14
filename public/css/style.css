@@ -1,0 +1,21 @@
+.jumbotron {
+    border: solid 1px #031729;
+    margin-top: 20px;
+    margin-right:400px;
+    margin-bottom:20px;
+    margin-left:400px;
+    text-align: center;
+    background: ##dddddd56;
+        
+}
+.well {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin-right:200px;
+    margin-left:200px;
+}
+
+
+.well:nth-child(even) {
+    background-color: #dddddd56;
+}
